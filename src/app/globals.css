@@ -6,6 +6,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.gradient-text {
+  background: linear-gradient(90deg, rgba(195,193,187,1) 0%, rgba(0,114,212,1) 0%, rgba(10,42,127,1) 95%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
 @layer base {
   :root {
     --background: 0 0% 100%;
