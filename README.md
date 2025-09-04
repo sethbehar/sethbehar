@@ -44,17 +44,10 @@
   <a href="https://www.linkedin.com/in/seth-behar" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-</div>
-
-
-<div style="display: flex; align-items: center; gap: 1rem;">
   <a href="https://www.chess.com/member/sethbehar" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/chess.png" width="32" height="32" alt="Chess.com" />
+    <img src="https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw=s256-rw" width="48" height="48" alt="Chess.com" />
   </a>
-</div>
-
-<div style="display: flex; align-items: center; gap: 1rem;">
   <a href="https://www.strava.com/athletes/159848516" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/fa6423/strava.png" width="32" height="32" alt="Strava" />
+    <img src="https://images.icon-icons.com/2429/PNG/512/strava_logo_icon_147232.png" width="48" height="48" alt="Strava" />
   </a>
 </div>
