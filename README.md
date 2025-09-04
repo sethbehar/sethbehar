@@ -11,23 +11,18 @@
 <!--
     Intro Rows (flex containers; each on its own row for easy expansion)
 -->
-<div style="display: flex; align-items: center; gap: 1rem;">
-  <span>Recent graduate from the University of Florida 🐊</span>
-</div>
+- 🎓 Recent graduate || University of Florida 🐊  
+- 📍 Fort Lauderdale, Florida  
+- ♟️ Chess player  && 🏃 Runner
 
-<div style="display: flex; align-items: center; gap: 1rem;">
-  <span>Fort Lauderdale, Florida 📍</span>
-</div>
-
-<div style="display: flex; align-items: center; gap: 1rem;">
-  <span>Chess player ♟️</span>
-</div>
-
-<div style="display: flex; align-items: center; gap: 1rem;">
-  <span>Runner 🏃</span>
-</div>
 
 ---
+<!--
+## Experience
+- Curr. Software Engineer @ JM Family.
+- Prev. Software Engineer intern @ eBacon
+- Prev. BI dev. intern @ WebstaurantStore 
+-->
 
 <!--
     Skills
