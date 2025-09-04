@@ -11,15 +11,19 @@
 <!--
     Intro Rows (flex containers; each on its own row for easy expansion)
 -->
-<div style="display: flex; align-items: center; gap: 0.5rem;">
+<div style="display: flex; align-items: center; gap: 1rem;">
   <span>Recent graduate from the University of Florida 🐊</span>
 </div>
 
-<div style="display: flex; align-items: center; gap: 0.5rem;">
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <span>Fort Lauderdale, Florida 📍</span>
+</div>
+
+<div style="display: flex; align-items: center; gap: 1rem;">
   <span>Chess player ♟️</span>
 </div>
 
-<div style="display: flex; align-items: center; gap: 0.5rem;">
+<div style="display: flex; align-items: center; gap: 1rem;">
   <span>Runner 🏃</span>
 </div>
 
