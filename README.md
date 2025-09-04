@@ -45,3 +45,16 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
+
+
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <a href="https://www.chess.com/member/sethbehar" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/chess.png" width="32" height="32" alt="Chess.com" />
+  </a>
+</div>
+
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <a href="https://www.strava.com/athletes/159848516" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/fa6423/strava.png" width="32" height="32" alt="Strava" />
+  </a>
+</div>
