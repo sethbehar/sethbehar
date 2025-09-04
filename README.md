@@ -1,93 +1,47 @@
 <!--
-    Hi I'm Seth
-
-    Welcome to my github
+    Header
 -->
-
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hi%2C+it's+Seth+Behar;Software+Analyst" alt="Business Analyst"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2400&pause=500&color=FFFFFF&width=435&lines=Hi%2C+it's+Seth+Behar;Software+Analyst"
+    alt="Typing introduction for Seth Behar"
+  />
 </a>
 
 <!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+    Intro Rows (flex containers; each on its own row for easy expansion)
 -->
-
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+<div style="display: flex; align-items: center; gap: 0.5rem;">
+  <span>Recent graduate from the University of Florida 🐊</span>
 </div>
 
-<!--
-     My mission, because I'm a superhero!
--->
-<!--
-     This is the list of my skills and tools I am studying!
--->
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+<div style="display: flex; align-items: center; gap: 0.5rem;">
+  <span>Chess player ♟️</span>
+</div>
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+<div style="display: flex; align-items: center; gap: 0.5rem;">
+  <span>Runner 🏃</span>
+</div>
+
+---
 
 <!--
-     I also have my own blog with useful information, check it out ^^
+    Skills
 -->
+### Tech stack
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,postgresql,nodejs,react,express,html,css)](https://skillicons.dev)
 
-### Publications
-<div> 
-  <a href="https://medium.com/@daria-stanilevici">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
+### Learning
+[![Learning](https://skillicons.dev/icons?i=dotnet,cs,azure)](https://skillicons.dev)
+
+---
+
+<!--
+    Connect
+-->
+### Connect
+<div style="display: flex; align-items: center; gap: 0.5rem;">
+  <a href="https://www.linkedin.com/in/sethbehar" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to/daria-stanilevici">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
-  </a>
 </div>
-
-You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
-I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
-
-<!--
-Check out my latest post 👇  
-
-<a href="https://medium.com/@daria-stanilevici" target="_blank">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
-</a>
-
-
-[![My latest Medium post](https://miro.medium.com/v2/resize:fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria-stanilevici/your-article-slug)
-
-
-     Fast links to my socials!
--->
-
-### Connect with me!
-<div>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-    </a>
-    <a href="https://dev.to/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
-    </a>
-    <a href="https://www.credly.com/users/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
-    </a>
-    <a href="https://www.artstation.com/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/1206188f-4274-4240-93e6-0dfc1919f9f0" alt="Art Station" width="33" height="33"/>
-    </a>
-    <a href="https://medium.com/@daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
-    </a>
-</div>
-
-<!--
-     Oh, hello there, recruiters!
--->
-
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-
-<!--
-     Thanks for being my guest <3
--->
