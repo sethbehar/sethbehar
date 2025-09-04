@@ -3,7 +3,7 @@
 -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2400&pause=500&color=FFFFFF&width=435&lines=Hi%2C+it's+Seth+Behar;Software+Analyst"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2400&pause=500&color=007fff&width=435&lines=Hi%2C+it's+Seth+Behar;Software+Analyst"
     alt="Typing introduction for Seth Behar"
   />
 </a>
@@ -11,7 +11,7 @@
 <!--
     Intro Rows (flex containers; each on its own row for easy expansion)
 -->
-- 🎓 Recent graduate || University of Florida 🐊  
+- 🎓 Recent graduate @ University of Florida 🐊  
 - 📍 Fort Lauderdale, Florida  
 - ♟️ Chess player  && 🏃 Runner
 
