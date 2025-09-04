@@ -41,7 +41,7 @@
 -->
 ### Connect
 <div style="display: flex; align-items: center; gap: 0.5rem;">
-  <a href="https://www.linkedin.com/in/sethbehar" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/seth-behar" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
